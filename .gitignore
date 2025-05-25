@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .terraform/
 <<<<<<< HEAD
 
@@ -8,3 +9,6 @@ terraform/terraform.tfstate
 terraform/terraform.tfstate.backup
 =======
 >>>>>>> Dev
+=======
+# Ignorar carpeta de plugins de Terraform .terraform/
+>>>>>>> be780e6c74adcd4903bbdfaf9a0836f952c24425
