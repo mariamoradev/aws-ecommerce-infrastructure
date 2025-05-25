@@ -1,7 +1,10 @@
 .terraform/
+<<<<<<< HEAD
 
 # Terraform lock & state files
 .terraform.lock.hcl
 terraform/.terraform.lock.hcl
 terraform/terraform.tfstate
 terraform/terraform.tfstate.backup
+=======
+>>>>>>> Dev
